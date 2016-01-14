@@ -1,0 +1,28 @@
+name: DanJR
+favicon: null
+layout_spectrum: 0.373706892831251
+typography_spectrum: 0.9264618752058595
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#e9e7e8'
+    - '#92b0d2'
+    - '#40689d'
+    - '#0a0a05'
+    - '#998e2e'
+  brandStrength: 0.3125
+  lightness: 0.4375
+  saturation: 0.3125
+  rhythmicContrast: 0.06160658039152622
+purpose: []
